@@ -30,5 +30,5 @@ We demonstrate quantum teleportation and state tomography using **IBM Quantum** 
 
 For academic use only.
 
-NCKU, Spring 2024
+NCKU, Spring 2024,
 Student: Shang-Ling Hung
