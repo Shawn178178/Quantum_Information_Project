@@ -1,11 +1,11 @@
-# 🧪 NCKU Quantum Engineering Final Project 2024
+# NCKU Quantum Engineering Final Project 2024
 
 This repository contains my final project for the **Quantum Engineering** course at **NCKU**.  
 We demonstrate quantum teleportation and state tomography using **IBM Quantum** real devices.
 
 ---
 
-## 🔬 Project Topics
+## Project Topics
 
 - ⚛️ **Quantum Teleportation**  
   Implementation and verification using real hardware.
@@ -18,7 +18,7 @@ We demonstrate quantum teleportation and state tomography using **IBM Quantum** 
 
 ---
 
-## 💻 Tools & Platform
+## Tools & Platform
 
 - IBM Quantum Lab (Qiskit)
 - Python 3.10+
